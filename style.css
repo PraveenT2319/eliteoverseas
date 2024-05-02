@@ -5496,9 +5496,6 @@ body, .banner-area,
   margin: 0;
 }
 
-.blog-area .blog-items .info {
-  padding-top: 30px;
-}
 
 .blog-area .blog-items .info h2,
 .blog-area .blog-items .info h3,
@@ -7211,4 +7208,7 @@ footer .footer-bottom.bg-light p {
 }
 .fa-edit{
   color: #10c45c;
+}
+.submit{
+  butt
 }
